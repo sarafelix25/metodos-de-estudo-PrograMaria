@@ -3,4 +3,4 @@ Projeto pessoal do curso de Paginação Web oferecido pela PrograMaria, que abor
 
 https://metodos-de-estudo.sarafelix2.repl.co
 
-![](metodosdeestudos.gif)
+![](metodosdeestudo.gif)
